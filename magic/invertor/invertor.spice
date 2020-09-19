@@ -1,0 +1,11 @@
+* SPICE3 file created from /home/santi/VLSI/exp-1/invertor.ext - technology: scmos
+
+.option scale=1u
+
+M1000 out in gnd Gnd nfet w=4 l=2
++  ad=20 pd=18 as=20 ps=18
+M1001 out in vdd vdd pfet w=5 l=2
++  ad=25 pd=20 as=30 ps=22
+C0 gnd Gnd 3.57fF
+C1 out Gnd 4.32fF
+C2 in Gnd 6.92fF

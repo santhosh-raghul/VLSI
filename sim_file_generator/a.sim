@@ -1,0 +1,24 @@
+| Design Acitivity 1
+
+p a vdd a_nor_b_int 2 4
+p b a_nor_b_int out_2 2 4
+n a out_2 gnd 2 4
+n b out_2 gnd 2 4
+
+p c vdd out_2 2 4
+p d vdd out_2 2 4
+n c out_2 c_nand_d_int 2 4
+n d c_nand_d_int gnd 2 4
+
+p out_2 vdd out_2_o 2 4
+n out_2 gnd out_2_o 2 4
+
+p out_2 vdd out_2_nor_out_2_o_int 2 4
+p out_2_o out_2_nor_out_2_o_int out_0 2 4
+n out_2 out_0 gnd 2 4
+n out_2_o out_0 gnd 2 4
+
+p out_0 vdd out 2 4
+n out_0 gnd out 2 4
+
+| sim file generated using sim_creater.py

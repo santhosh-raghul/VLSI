@@ -1,0 +1,22 @@
+* SPICE3 file created from /home/santi/VLSI/exp-2/3_input_nor.ext - technology: scmos
+
+.option scale=1u
+
+M1000 out c gnd Gnd nfet w=7 l=4
++  ad=140 pd=68 as=126 ps=64
+M1001 gnd b out Gnd nfet w=7 l=4
++  ad=0 pd=0 as=0 ps=0
+M1002 out a gnd Gnd nfet w=7 l=4
++  ad=0 pd=0 as=0 ps=0
+M1003 a_2_1# b a_n10_1# w_n27_n1# pfet w=7 l=4
++  ad=56 pd=30 as=56 ps=30
+M1004 out c a_2_1# w_n27_n1# pfet w=7 l=4
++  ad=84 pd=38 as=0 ps=0
+M1005 a_n10_1# a vdd w_n27_n1# pfet w=7 l=4
++  ad=0 pd=0 as=70 ps=34
+C0 gnd Gnd 7.75fF
+C1 out Gnd 11.00fF
+C2 c Gnd 11.39fF
+C3 b Gnd 11.39fF
+C4 a Gnd 11.39fF
+C5 vdd Gnd 6.34fF
