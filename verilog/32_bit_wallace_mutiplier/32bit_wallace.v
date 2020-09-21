@@ -1,5 +1,5 @@
 `include"adder.v"
-`include"../exp-5/fast_adder.v"
+`include"../32_bit_adder_recursive_doubling/fast_adder.v"
 
 module multiplier(a,b,product,carry_out);
 
