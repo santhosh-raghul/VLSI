@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/santi/VLSI/xilinx/pairity_generator-8_bit/pairity_generator_8_bit.xst" -ofn "/home/santi/VLSI/xilinx/pairity_generator-8_bit/pairity_generator_8_bit.syr" 
+xst -intstyle ise -ifn "/home/santi/VLSI/xilinx/pairity_generator-8_bit/pairity_generator_8_bit.xst" -ofn "/home/santi/VLSI/xilinx/pairity_generator-8_bit/pairity_generator_8_bit.syr" 
