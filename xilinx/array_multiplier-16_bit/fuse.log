@@ -1,0 +1,22 @@
+Running: /home/santi/xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/santi/VLSI/xilinx/array_multiplier-16_bit/arraymult_16bit_isim_beh.exe -prj /home/santi/VLSI/xilinx/array_multiplier-16_bit/arraymult_16bit_beh.prj work.arraymult_16bit work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/santi/VLSI/xilinx/array_multiplier-16_bit/array_multiplier-16_bit.v" into library work
+WARNING:HDLCompiler:248 - "/home/santi/VLSI/xilinx/array_multiplier-16_bit/array_multiplier-16_bit.v" Line 48: Block identifier is required on this block
+Analyzing Verilog file "/home/santi/xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 83736 KB
+Fuse CPU Usage: 1220 ms
+Compiling module halfadder
+Compiling module fulladder
+Compiling module arraymult_16bit
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 4 Verilog Units
+Built simulation executable /home/santi/VLSI/xilinx/array_multiplier-16_bit/arraymult_16bit_isim_beh.exe
+Fuse Memory Usage: 650800 KB
+Fuse CPU Usage: 1300 ms
+GCC CPU Usage: 1460 ms

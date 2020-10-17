@@ -1,0 +1,29 @@
+Command line:
+   pairity_generator_8_bit_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  39325
+
+Thu Oct 15 16:29:17 2020
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 183.882 Meg
+
+ Total Signals          : 16
+ Total Nets             : 23
+ Total Signal Drivers   : 7
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 8
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 103
+Total Line Count : 16
+
+ Total Simulation Time: 0.04 sec
+
+ Current Memory Usage: 259.383 Meg
+
+Thu Oct 15 16:30:06 2020
+

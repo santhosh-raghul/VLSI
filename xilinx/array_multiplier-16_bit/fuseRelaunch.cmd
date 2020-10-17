@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/santi/VLSI/xilinx/array_multiplier-16_bit/arraymult_16bit_isim_beh.exe" -prj "/home/santi/VLSI/xilinx/array_multiplier-16_bit/arraymult_16bit_beh.prj" "work.arraymult_16bit" "work.glbl" 

@@ -1,0 +1,29 @@
+Command line:
+   arraymult_16bit_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  36861
+
+Tue Oct 13 17:37:58 2020
+
+
+ Elaboration Time: 0.03 sec
+
+ Current Memory Usage: 187.113 Meg
+
+ Total Signals          : 1247
+ Total Nets             : 798
+ Total Signal Drivers   : 758
+ Total Blocks           : 242
+ Total Primitive Blocks : 241
+ Total Processes        : 759
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 878
+Total Line Count : 767
+
+ Total Simulation Time: 0.26 sec
+
+ Current Memory Usage: 262.615 Meg
+
+Tue Oct 13 17:53:48 2020
+

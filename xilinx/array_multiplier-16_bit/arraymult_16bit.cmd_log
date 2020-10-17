@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/santi/VLSI/xilinx/array_multiplier-16_bit/arraymult_16bit.xst" -ofn "/home/santi/VLSI/xilinx/array_multiplier-16_bit/arraymult_16bit.syr" 
