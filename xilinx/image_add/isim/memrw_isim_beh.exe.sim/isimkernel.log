@@ -1,0 +1,29 @@
+Command line:
+   memrw_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59433
+
+Wed Oct 28 18:52:40 2020
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 185.901 Meg
+
+ Total Signals          : 459
+ Total Nets             : 1164
+ Total Signal Drivers   : 186
+ Total Blocks           : 53
+ Total Primitive Blocks : 43
+ Total Processes        : 222
+ Total Traceable Variables  : 974
+ Total Scalar Nets and Variables : 53428
+Total Line Count : 1228
+
+ Total Simulation Time: 0.09 sec
+
+ Current Memory Usage: 261.403 Meg
+
+Wed Oct 28 18:54:57 2020
+

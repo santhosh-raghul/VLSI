@@ -1,0 +1,17 @@
+# Output products list for <block_ram_2>
+_xmsgs/pn_parser.xmsgs
+block_ram_2/blk_mem_gen_v7_3_readme.txt
+block_ram_2/doc/blk_mem_gen_v7_3_vinfo.html
+block_ram_2/doc/pg058-blk-mem-gen.pdf
+block_ram_2.asy
+block_ram_2.gise
+block_ram_2.mif
+block_ram_2.ngc
+block_ram_2.sym
+block_ram_2.v
+block_ram_2.veo
+block_ram_2.xco
+block_ram_2.xise
+block_ram_2_flist.txt
+block_ram_2_xmdf.tcl
+summary.log

@@ -1,0 +1,34 @@
+Running: /home/santi/xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/santi/VLSI/xilinx/image_add/memrw_isim_beh.exe" -prj "/home/santi/VLSI/xilinx/image_add/memrw_beh.prj" "work.memrw" "work.glbl" 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/santi/VLSI/xilinx/image_add/ipcore_dir/block_ram_3.v" into library work
+Analyzing Verilog file "/home/santi/VLSI/xilinx/image_add/ipcore_dir/block_ram_2.v" into library work
+Analyzing Verilog file "/home/santi/VLSI/xilinx/image_add/ipcore_dir/block_ram_1.v" into library work
+Analyzing Verilog file "/home/santi/VLSI/xilinx/image_add/image_adder_module.v" into library work
+Analyzing Verilog file "/home/santi/xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 85512 KB
+Fuse CPU Usage: 1370 ms
+Compiling module BLK_MEM_GEN_V7_3_output_stage(C_...
+Compiling module BLK_MEM_GEN_V7_3_softecc_output_...
+Compiling module BLK_MEM_GEN_V7_3_mem_module(C_CO...
+Compiling module BLK_MEM_GEN_V7_3(C_FAMILY="virte...
+Compiling module block_ram_1
+Compiling module BLK_MEM_GEN_V7_3_mem_module(C_CO...
+Compiling module BLK_MEM_GEN_V7_3(C_FAMILY="virte...
+Compiling module block_ram_2
+Compiling module BLK_MEM_GEN_V7_3_mem_module(C_CO...
+Compiling module BLK_MEM_GEN_V7_3(C_FAMILY="virte...
+Compiling module block_ram_3
+Compiling module memrw
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 13 Verilog Units
+Built simulation executable /home/santi/VLSI/xilinx/image_add/memrw_isim_beh.exe
+Fuse Memory Usage: 649328 KB
+Fuse CPU Usage: 1450 ms
+GCC CPU Usage: 140 ms

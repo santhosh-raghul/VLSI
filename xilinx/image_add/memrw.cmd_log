@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/santi/VLSI/xilinx/image_add/memrw.xst" -ofn "/home/santi/VLSI/xilinx/image_add/memrw.syr" 

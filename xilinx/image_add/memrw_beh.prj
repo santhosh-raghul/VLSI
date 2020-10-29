@@ -1,0 +1,5 @@
+verilog work "ipcore_dir/block_ram_3.v"
+verilog work "ipcore_dir/block_ram_2.v"
+verilog work "ipcore_dir/block_ram_1.v"
+verilog work "image_adder_module.v"
+verilog work "/home/santi/xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
