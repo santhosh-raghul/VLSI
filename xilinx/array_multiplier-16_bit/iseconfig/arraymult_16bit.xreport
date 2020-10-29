@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2020-10-15T16:27:29</DateModified>
+  <DateModified>2020-10-27T16:33:56</DateModified>
   <ModuleName>arraymult_16bit</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>/home/santi/VLSI/xilinx/array_multiplier-16_bit/iseconfig/arraymult_16bit.xreport</SavedFilePath>
